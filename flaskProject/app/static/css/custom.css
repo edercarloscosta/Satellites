@@ -1,0 +1,23 @@
+.satelliteIssIcon {
+    text-align: center;
+    line-height: 20px;
+    color: #ff253a;
+}
+.tracingIssIcon {
+    text-align: center;
+    line-height: 20px;
+    color: gold;
+    opacity: 2;
+}
+
+.satelliteSentinelIcon {
+    text-align: center;
+    line-height: 20px;
+    color: blue;
+}
+.tracingSentinelIcon {
+    text-align: center;
+    line-height: 20px;
+    color: gold;
+    opacity: 2;
+}
